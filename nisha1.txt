@@ -1,2 +1,6 @@
 Hii
+<<<<<<< HEAD
 I am developer
+My name is nisha 
+from 5cdv section
+>>>>>>> feature
